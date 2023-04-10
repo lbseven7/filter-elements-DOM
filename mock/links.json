@@ -1,0 +1,76 @@
+{
+  "learn": [
+    {
+      "id": 1,
+      "title": "JavaScript",
+      "intro": "JavaScript é uma linguagem de programação interpretada que é utilizada principalmente no desenvolvimento de aplicações para a web.",
+      "link": "https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "Banco de dados relacional",
+      "intro": "Um banco de dados relacional (RDB) é uma forma de estruturar informações em tabelas, linhas e colunas. Ao combinar tabelas, o RDB consegue estabelecer vinculações (ou relacionamentos) entre informações, o que facilita o entendimento e a geração de insights sobre a relação entre vários pontos de dados.",
+      "link": "https://cloud.google.com/learn/what-is-a-relational-database?hl=pt-br"
+    },
+    {
+      "id": 3,
+      "title": "Airbnb JavaScript Style Guide",
+      "intro": "O guia de estilo é baseado em padrões e melhores práticas adotados pela equipe, com o objetivo de tornar o código mais legível, consistente e fácil de manter. Ele inclui recomendações para a organização do código, formatação, nomenclatura de variáveis e funções, uso de comentários, tratamento de exceções, entre outros aspectos.",
+      "link": "https://github.com/airbnb/javascript"
+    },
+    {
+      "id": 4,
+      "title": "Big-O Cheat Sheet",
+      "intro": "Esta página cobre as complexidades Big-O de espaço e tempo de algoritmos comuns usados em Ciência da Computação.",
+      "link": "https://www.bigocheatsheet.com/"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "intro": "Obtenha uma API REST falsa completa com codificação zero em menos de 30 segundos (sério)",
+      "link": "https://www.npmjs.com/package/json-server"
+    },
+    {
+      "id": 6,
+      "title": "Phosphor Icons",
+      "intro": "Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.",
+      "link": "https://phosphoricons.com/"
+    },
+    {
+      "id": 7,
+      "title": "",
+      "intro": "",
+      "link": ""
+    },
+    {
+      "id": 8,
+      "title": "",
+      "intro": "",
+      "link": ""
+    },
+    {
+      "id": 9,
+      "title": "",
+      "intro": "",
+      "link": ""
+    },
+    {
+      "id": 10,
+      "title": "",
+      "intro": "",
+      "link": ""
+    },
+    {
+      "id": 11,
+      "title": "",
+      "intro": "",
+      "link": ""
+    },
+    {
+      "id": 11,
+      "title": "",
+      "intro": "",
+      "link": ""
+    }
+  ]
+}
