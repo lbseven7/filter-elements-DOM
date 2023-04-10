@@ -1,6 +1,8 @@
 # Boas-vindas ao repositório do `My Study Links`!
 Este projeto surgiu quando eu estava estudando programação, estudando pra concurso e fazendo pesquisas e projetos pessoais. Percebi que precisava organizar meus estudos e ter um "lugar centralizado" onde estivesse os links de assuntos relevantes.
 
+Veja o projeto no ar: https://my-study-links.vercel.app/
+
   ## 🚵 Habilidades exercitadas:
   - Manipulação da DOM
   - Uso do json-server para dados mock
